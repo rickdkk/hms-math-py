@@ -1,0 +1,7 @@
+jupyter-book
+matplotlib~=3.4.2
+numpy~=1.20.3
+scipy~=1.6.2
+sympy~=1.8
+IPYthon~=7.26.0
+plotly
